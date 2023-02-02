@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BC0345F8-2012-435B-BD55-55C40914D975}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarRent/PersonsCs.cs">
+    <Files>
+      <File FileName="CarRent/Program.cs" Line="14" Column="50" IsPinned="True" />
+      <File FileName="CarRent/PersonsCs.cs" Line="42" Column="25" />
+      <File FileName="CarRent/Raport.cs" Line="7" Column="32" />
+      <File FileName="CarRent/Writers/ClientWrite.cs" Line="36" Column="136" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarRent" expanded="True" selected="True">
+            <Node name="CarRent" expanded="True">
+              <Node name="Writers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CarRent PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

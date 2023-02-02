@@ -1,0 +1,15 @@
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.csproj.AssemblyReference.cache
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.AssemblyInfoInputs.cache
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.AssemblyInfo.cs
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.csproj.CoreCompileInputs.cache
+/Users/lubov_14/Projects/CarRent/CarRent/bin/Debug/net6.0/CarRent
+/Users/lubov_14/Projects/CarRent/CarRent/bin/Debug/net6.0/CarRent.deps.json
+/Users/lubov_14/Projects/CarRent/CarRent/bin/Debug/net6.0/CarRent.runtimeconfig.json
+/Users/lubov_14/Projects/CarRent/CarRent/bin/Debug/net6.0/CarRent.dll
+/Users/lubov_14/Projects/CarRent/CarRent/bin/Debug/net6.0/CarRent.pdb
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.dll
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/refint/CarRent.dll
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.pdb
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/CarRent.genruntimeconfig.cache
+/Users/lubov_14/Projects/CarRent/CarRent/obj/Debug/net6.0/ref/CarRent.dll
